@@ -1,0 +1,96 @@
+@media only screen and (max-width: 1400px){
+    .divv, .rightpp, .leftp{
+        width: 30vw;
+        height: 30vh;
+        background-color: #0000003d;
+        margin-top: 40px;
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+        border-radius: 10px;
+        align-items: center;
+        text-align: center;
+        font-size: 10px;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }
+    .content{
+        width: 70%;
+    }
+    .alexa{
+        margin-top: 180px;
+        flex-direction: column;
+        height: 50vh;
+    }
+    .aaa{
+        flex-direction: column-reverse;
+    }
+    .ai {
+        margin-top: 23vh;
+        font-size: 36px;
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    }
+    .ooo{
+        margin-top: 30px;
+        font-size: 25px;
+    }
+    .lll{
+        flex-direction: column !important;
+    }
+    
+    .alexa-p{
+        width: 85vw;
+    }
+    .parent{
+        flex-direction: column-reverse;
+        justify-content: center;
+    }
+    .parenttwo{
+        flex-direction: column;
+        justify-content: center;
+    }
+    .rightp, .leftp, .rightpp{
+        width: 100vw;
+        justify-content: center;
+    }
+    .right{
+        margin: 0;
+    }
+    .divv{
+        width: 100%;
+        display: flex;
+        justify-content: center;
+    }
+    .div{
+        flex-direction: column-reverse;
+    }
+    .iii{
+        width: 80vw;
+    }
+    .nav-icon{
+        opacity: 1;
+    }
+    .nav{
+        background-color: black;
+        flex-direction: column;
+    }
+    .right{
+        transition: 0.5s all;
+        flex-direction: column;
+        background-color: black;
+        width: 100vw;
+        justify-content: center;
+        transform: translateX(-100%);
+    }
+    .right li{
+        width: 100vw;
+        text-align: center;
+        border-bottom: 0.7px solid rgb(255, 255, 255);
+    }
+    .jjj{
+        margin-right: 20px;
+    }
+    .heading{
+        font-size: 40px;
+    }
+
+}
